@@ -1,0 +1,14 @@
+# Core backend
+flask
+flask-cors
+
+# Machine learning
+torch
+torchaudio
+numpy
+opencv-python
+mediapipe
+openai-whisper
+
+# Utilities
+pandas
