@@ -9,8 +9,9 @@ numpy
 opencv-python
 
 # Lightweight mediapipe alternative (works on Python 3.11+)
-mediapipe-lite
+mediapipe
 
 # Utilities
 pandas
 openai-whisper
+
