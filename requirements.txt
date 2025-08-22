@@ -7,8 +7,9 @@ torch
 torchaudio
 numpy
 opencv-python
-mediapipe
+mediapipe-silicon  
 openai-whisper
 
 # Utilities
 pandas
+
