@@ -3,7 +3,7 @@ from flask_cors import CORS
 import threading
 import torch
 import cv2
-import mediapipe_lite as mp
+import mediapipe as mp
 import whisper
 import time
 
@@ -137,4 +137,5 @@ def start_threads():
 if __name__ == "__main__":
     start_threads()
     app.run(host="0.0.0.0", port=5000, debug=True)
+
 
