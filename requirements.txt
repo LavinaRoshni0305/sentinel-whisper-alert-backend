@@ -7,10 +7,10 @@ torch
 torchaudio
 numpy
 opencv-python
-mediapipe 
-openai-whisper
+
+# Lightweight mediapipe alternative (works on Python 3.11+)
+mediapipe-lite
 
 # Utilities
 pandas
-
-
+openai-whisper
