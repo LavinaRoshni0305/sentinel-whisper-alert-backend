@@ -6,4 +6,5 @@ transformers
 sounddevice
 numpy
 whisper
+gunicorn
 
