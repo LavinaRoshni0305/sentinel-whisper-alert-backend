@@ -5,8 +5,8 @@ opencv-python
 torch
 transformers
 sounddevice
-
-
+numpy
+gunicorn
 
 
 
