@@ -1,12 +1,12 @@
 flask
 flask-cors
-openai
-opencv-python
 torch
-transformers
-sounddevice
-numpy
+torchaudio
+openai-whisper
+mediapipe
+opencv-python
 gunicorn
+
 
 
 
