@@ -211,6 +211,11 @@ Project: Zero-Touch SOS: Multimodal Emergency Response System
 
 Domain: Android Development | Machine Learning | Emergency Response | Multimodal AI
 
+## 📱 APK Download
+[Download Zero-Touch SOS APK]
+https://drive.google.com/drive/folders/1V5dtTlqHnWp4RoKQAIbO_AJ95BB8Axgl
+
+> Download the APK and install it on an Android device to test the application.
 📄 License
 
 This project is developed for academic and demonstration purposes.
